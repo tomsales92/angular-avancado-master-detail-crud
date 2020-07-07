@@ -1,0 +1,9 @@
+Dependencias utilizadas
+1 - bootstrap
+2 - Angular Imask plugin - Mascaras nos campos
+3 - Currency-formatter -Converter números
+4 - Moment
+5 - toastr
+6 - PrimeNG - TOP demais
+7 - Chart.js - PrimeNG
+8 - angular-in-memory-web-api
