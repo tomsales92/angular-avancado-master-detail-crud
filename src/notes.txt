@@ -7,3 +7,10 @@ Dependencias utilizadas
 6 - PrimeNG - TOP demais
 7 - Chart.js - PrimeNG
 8 - angular-in-memory-web-api
+
+ng g m pages/categories --routing - Criação do Modulo
+ng g c pages/categories/category-list  - Criação do Componente(Master)
+ng g c pages/categories/category-form  - Criação do Componente(Detail)
+
+entendendo
+appmodule -> categoriesModules -> CategorieRouting -> faz o resto
